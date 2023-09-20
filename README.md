@@ -10,6 +10,7 @@ For students who would like to apply for RA, PhD, postdoc in audio research.
 | Mark Bocko                      | UR                     | [Link](https://www.hajim.rochester.edu/ece/people/faculty/bocko_mark/index.html) |
 | Paris Smaragdis                 | UIUC                   | [Link](https://paris.cs.illinois.edu/)                    |
 | Romit Roy Choudhury             | UIUC                   | [Link](https://croy.web.engr.illinois.edu/)               |
+| Mark A. Hasegawa-Johnson        | UIUC                   | [Link](https://speechtechnology.web.illinois.edu/mark-a-hasegawa-johnson/)|
 | Andrew Singer                   | UIUC                   | [Link](https://acsinger.ece.illinois.edu/)               |
 | James Glass                     | MIT                    | [Link](https://www.csail.mit.edu/person/jim-glass)       |
 | Minje Kim                       | IUB                    | [Link](https://saige.sice.indiana.edu/)                  |
@@ -37,10 +38,10 @@ For students who would like to apply for RA, PhD, postdoc in audio research.
 | Roger B. Dannenberg             | CMU                    | [Link](https://www.cs.cmu.edu/~rbd/)                      |
 | Juan Pablo Bello                | NYU                    | [Link](https://engineering.nyu.edu/faculty/juan-pablo-bello) |
 | Magdalena Fuentes               | NYU                    | [Link](https://steinhardt.nyu.edu/people/magdalena-fuentes) |
+| Kyunghyun Cho                   | NYU                    | [Link](https://kyunghyuncho.me/)                          |
 | Kyla McMullen                   | UF                     | [Link](https://kylamcmullen.com/)                         |
 | Shrikanth (Shri) Narayanan      | USC                    | [Link](https://sail.usc.edu/people/shri.html)              |
 | Karen Livescu                   | TTIC                   | [Link](https://home.ttic.edu/~klivescu/)                   |
-| Tuomas Virtanen                 | Tampere                | [Link](https://webpages.tuni.fi/arg/)                      |
 | Dinesh Manocha                  | UMD                    | [Link](https://www.cs.umd.edu/people/dmanocha)             |
 | Ramani Duraiswami               | UMD                    | [Link](https://users.umiacs.umd.edu/~ramani/)              |
 | Gregory Wakefield               | UMich                  | [Link](https://lsa.umich.edu/appliedphysics/people/faculty/ghw.html)|
