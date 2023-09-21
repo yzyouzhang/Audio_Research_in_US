@@ -45,6 +45,7 @@ For students who would like to apply for RA, PhD, postdoc in audio research.
 | Dinesh Manocha                  | UMD                    | [Link](https://www.cs.umd.edu/people/dmanocha)             |
 | Ramani Duraiswami               | UMD                    | [Link](https://users.umiacs.umd.edu/~ramani/)              |
 | Gregory Wakefield               | UMich                  | [Link](https://lsa.umich.edu/appliedphysics/people/faculty/ghw.html)|
+| Emily Mower Provost             | UMich                  | [Link](https://emp.engin.umich.edu/)                      |
 | David Anderson                  | UMN                    | [Link](https://scse.d.umn.edu/faculty-staff/david-anderson) |
 | Nima Mesgarani                  | Columbia               | [Link](http://nima.ee.columbia.edu/)                       |
 | Yi Shen                         | UW                     | [Link](https://sphsc.washington.edu/content/yi-shen)      |
