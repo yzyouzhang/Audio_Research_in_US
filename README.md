@@ -28,6 +28,7 @@ For students who would like to apply for RA, PhD, postdoc in audio research.
 | Berrak Sisman                   | UTDallas               | [Link](https://ece.utdallas.edu/staff/sisman/)           |
 | Issa Panahi                     | UTDallas               | [Link](https://labs.utdallas.edu/ssprl/)                 |
 | Carlos Busso                    | UTDallas               | [Link](https://personal.utdallas.edu/~busso/)            |
+| Adam Finkelstein                | Princeton              | [Link](https://pixl.cs.princeton.edu/pubs-af.php?sort=a&q=finkelstein&cite=l)                       |
 | Edgar Choueiri                  | Princeton              | [Link](https://3d3a.princeton.edu/people/edgar-choueiri) |
 | Edward J. Delp                  | Purdue                 | [Link](https://www.cerias.purdue.edu/site/people/faculty/view/649) |
 | Bhiksha Raj                     | CMU                    | [Link](http://mlsp.cs.cmu.edu/people/bhiksha/)           |
@@ -44,6 +45,7 @@ For students who would like to apply for RA, PhD, postdoc in audio research.
 | Karen Livescu                   | TTIC                   | [Link](https://home.ttic.edu/~klivescu/)                   |
 | Dinesh Manocha                  | UMD                    | [Link](https://www.cs.umd.edu/people/dmanocha)             |
 | Ramani Duraiswami               | UMD                    | [Link](https://users.umiacs.umd.edu/~ramani/)              |
+| Nirupam Roy                     | UMD                    | [Link](https://icosmos.cs.umd.edu/)                       |
 | Gregory Wakefield               | UMich                  | [Link](https://lsa.umich.edu/appliedphysics/people/faculty/ghw.html)|
 | Emily Mower Provost             | UMich                  | [Link](https://emp.engin.umich.edu/)                      |
 | David Anderson                  | UMN                    | [Link](https://scse.d.umn.edu/faculty-staff/david-anderson) |
