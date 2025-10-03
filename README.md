@@ -10,15 +10,18 @@ This list focuses on professors at U.S. universities who specialize in **speech,
 | Gopala Krishna Anumanchipalli   | UCB                    | [Link](https://www2.eecs.berkeley.edu/Faculty/Homepages/gopala.html) |
 | Zhiyao Duan                     | UR                     | [Link](https://labsites.rochester.edu/air/index.html)     |
 | Mark Bocko                      | UR                     | [Link](https://www.hajim.rochester.edu/ece/people/faculty/bocko_mark/index.html) |
-| Paris Smaragdis                 | UIUC                   | [Link](https://paris.cs.illinois.edu/)                    |
+| James Glass                     | MIT                    | [Link](https://www.csail.mit.edu/person/jim-glass)       |
+| Anna Huang | MIT | [Link](https://czhuang.github.io/) | 
+| Mark Rau | MIT | [Link](https://mta.mit.edu/person/mark-rau) |
+| Paris Smaragdis                 | MIT                   | [Link](https://paris.cs.illinois.edu/)                    |
 | Romit Roy Choudhury             | UIUC                   | [Link](https://croy.web.engr.illinois.edu/)               |
 | Mark A. Hasegawa-Johnson        | UIUC                   | [Link](https://speechtechnology.web.illinois.edu/mark-a-hasegawa-johnson/)|
 | Andrew Singer                   | UIUC                   | [Link](https://acsinger.ece.illinois.edu/)               |
 | Minje Kim                       | UIUC                    | [Link](https://minjekim.com/)                  |
+| J. Stephen Downie               | UIUC                   | [Link](https://ischool.illinois.edu/people/j-stephen-downie)   |
+| Dilek Hakkani-Tür               | UIUC                   | [Link](https://siebelschool.illinois.edu/about/people/faculty/dilek) |
+| Jialu Li    |    UArizona | [Link](https://sites.google.com/view/jialuli/) |
 | Ryan M Corey | UIC | [Link](https://ece.uic.edu/profiles/corey-ryan/) |
-| James Glass                     | MIT                    | [Link](https://www.csail.mit.edu/person/jim-glass)       |
-| Anna Huang | MIT | [Link](https://czhuang.github.io/) | 
-| Mark Rau | MIT | [Link](https://mta.mit.edu/person/mark-rau) |
 | Julius Smith | Stanford | [Link](https://ccrma.stanford.edu/~jos/) |
 | Malcolm Slaney | Stanford | [Link](https://music.stanford.edu/people/malcolm-slaney) |
 | John Thickstun | Cornell | [Link](https://johnthickstun.com/) |
