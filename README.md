@@ -25,6 +25,7 @@ This list focuses on professors at U.S. universities who specialize in **speech,
 | Julius Smith | Stanford | [Link](https://ccrma.stanford.edu/~jos/) |
 | Malcolm Slaney | Stanford | [Link](https://music.stanford.edu/people/malcolm-slaney) |
 | John Thickstun | Cornell | [Link](https://johnthickstun.com/) |
+| Mingmin Zhao | UPenn | [Link](https://www.cis.upenn.edu/~mingminz/) |
 | Eli Shlizerman                  | UW                     | [Link](https://faculty.washington.edu/shlizee/)            |
 | Shyamnath Gollakota                      | UW                    | [Link](https://homes.cs.washington.edu/~gshyam/)                  |
 | Yi Shen                         | UW                     | [Link](https://sphsc.washington.edu/content/yi-shen)      |
