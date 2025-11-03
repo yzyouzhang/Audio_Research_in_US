@@ -30,7 +30,6 @@ This list focuses on professors at U.S. universities who specialize in **speech,
 | Shyamnath Gollakota                      | UW                    | [Link](https://homes.cs.washington.edu/~gshyam/)                  |
 | Yi Shen                         | UW                     | [Link](https://sphsc.washington.edu/content/yi-shen)      |
 | Donald Williamson               | OSU                    | [Link](https://the-aspire-group.github.io/index.html)    |
-| DeLiang Wang                    | OSU                    | [Link](https://www.cse.ohio-state.edu/~dwang)            |
 | Mark Cartwright                 | NJIT                   | [Link](https://markcartwright.com/)                      |
 | Bryan Pardo                     | Northwestern           | [Link](https://bryan-pardo.github.io/)                   |
 | Shlomo Dubnov                   | UCSD                   | [Link](https://music-cms.ucsd.edu/people/faculty/regular_faculty/shlomo-dubnov/index.html)                                 |
@@ -71,3 +70,7 @@ This list focuses on professors at U.S. universities who specialize in **speech,
 | Ruohan Gao | UMD | [Link](https://ruohangao.github.io/) |
 | David Anderson                  | UMN                    | [Link](https://scse.d.umn.edu/faculty-staff/david-anderson) |
 | Nima Mesgarani                  | Columbia               | [Link](http://nima.ee.columbia.edu/)                       |
+| Larry Heck                | GeorgiaTech               | [Link](https://larryheck.github.io/)                       |
+| Alexander Lerch                | GeorgiaTech               | [Link](https://www.alexanderlerch.com/)                       |
+| Chin-Hui Lee | GeorgiaTech               | [Link](https://chl.ece.gatech.edu/)                       |
+| Henrik von Coler | GeorgiaTech               | [Link](https://music.gatech.edu/people/henrik-von-coler)                       |
