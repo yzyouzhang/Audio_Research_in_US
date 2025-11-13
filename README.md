@@ -16,15 +16,17 @@ This list focuses on professors at U.S. universities who specialize in **speech,
 | Paris Smaragdis                 | MIT                   | [Link](https://paris.cs.illinois.edu/)                    |
 | Romit Roy Choudhury             | UIUC                   | [Link](https://croy.web.engr.illinois.edu/)               |
 | Mark A. Hasegawa-Johnson        | UIUC                   | [Link](https://speechtechnology.web.illinois.edu/mark-a-hasegawa-johnson/)|
-| Andrew Singer                   | UIUC                   | [Link](https://acsinger.ece.illinois.edu/)               |
 | Minje Kim                       | UIUC                    | [Link](https://minjekim.com/)                  |
 | J. Stephen Downie               | UIUC                   | [Link](https://ischool.illinois.edu/people/j-stephen-downie)   |
 | Dilek Hakkani-Tür               | UIUC                   | [Link](https://siebelschool.illinois.edu/about/people/faculty/dilek) |
 | Jialu Li    |    UArizona | [Link](https://sites.google.com/view/jialuli/) |
+| Andrew Singer                   | StonyBrook                   | [Link](https://acsinger.ece.illinois.edu/)               |
 | Ryan M Corey | UIC | [Link](https://ece.uic.edu/profiles/corey-ryan/) |
 | Julius Smith | Stanford | [Link](https://ccrma.stanford.edu/~jos/) |
 | Malcolm Slaney | Stanford | [Link](https://music.stanford.edu/people/malcolm-slaney) |
 | John Thickstun | Cornell | [Link](https://johnthickstun.com/) |
+| Michael A. Casey | Dartmouth | [Link](https://faculty-directory.dartmouth.edu/michael-casey) |
+| Nikhil Singh | Dartmouth | [Link](https://nsingh1.host.dartmouth.edu/) |
 | Mingmin Zhao | UPenn | [Link](https://www.cis.upenn.edu/~mingminz/) |
 | Eli Shlizerman                  | UW                     | [Link](https://faculty.washington.edu/shlizee/)            |
 | Shyamnath Gollakota                      | UW                    | [Link](https://homes.cs.washington.edu/~gshyam/)                  |
@@ -60,6 +62,7 @@ This list focuses on professors at U.S. universities who specialize in **speech,
 | Juan Pablo Bello                | NYU                    | [Link](https://engineering.nyu.edu/faculty/juan-pablo-bello) |
 | Brian McFee | NYU | [Link](https://brianmcfee.net/) |
 | Magdalena Fuentes               | NYU                    | [Link](https://steinhardt.nyu.edu/people/magdalena-fuentes) |
+| Agnieszka Roginska | NYU | [Link](https://steinhardt.nyu.edu/people/agnieszka-roginska) |
 | Kyunghyun Cho                   | NYU                    | [Link](https://kyunghyuncho.me/)                          |
 | Kyla McMullen                   | UF                     | [Link](https://kylamcmullen.com/)                         |
 | Shrikanth (Shri) Narayanan      | USC                    | [Link](https://sail.usc.edu/people/shri.html)              |
