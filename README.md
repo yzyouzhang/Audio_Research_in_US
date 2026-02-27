@@ -77,3 +77,4 @@ This list focuses on professors at U.S. universities who specialize in **speech,
 | Alexander Lerch                | GeorgiaTech               | [Link](https://www.alexanderlerch.com/)                       |
 | Chin-Hui Lee | GeorgiaTech               | [Link](https://chl.ece.gatech.edu/)                       |
 | Henrik von Coler | GeorgiaTech               | [Link](https://music.gatech.edu/people/henrik-von-coler)                       |
+| Weiran Wang | UIowa | [Link](https://weiranwang19.github.io/) |
